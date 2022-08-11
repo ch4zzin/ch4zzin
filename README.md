@@ -10,6 +10,9 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 - 🌎 From Brazil
 - 🧪 Working for Division76
 
+### OS:
+<code><img height="27" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch-linux"></code>
+
 ### Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
