@@ -19,6 +19,9 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></code>
 <code><img height="27" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
 
+### CONTACT-ME:
+
+- Discord: ch4zzin#9476
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
