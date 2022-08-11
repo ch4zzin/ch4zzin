@@ -13,7 +13,7 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 ### OS:
 <code><img height="27" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch-linux"></code>
 
-### Languages:
+### SKILLS:
 
 <code><img height="27" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></code>
