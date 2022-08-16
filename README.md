@@ -27,10 +27,6 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 
 - Discord: ch4zzin#9476
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
 #
 
 <div align="center">
