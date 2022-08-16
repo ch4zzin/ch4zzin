@@ -1,5 +1,7 @@
 ## Hi, i'm [ch4zzin] <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/> (https://github.com/ch4zzin)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4zzin&label=Profile%20views&color=323232&style=flat-square" alt="ch4zzin" /> </p>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ch4zzin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bryan_4kl)
 
