@@ -12,7 +12,7 @@
 My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, I'm currently stopped, but anything can call me.
 
 - 🌎 From Brazil
-- 🧪 Working for Division76
+- 🧪 Comming soon
 
 ### OS:
 <code><img height="27" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch-linux"></code>
