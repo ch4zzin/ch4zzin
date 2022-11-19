@@ -25,7 +25,7 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 
 ### CONTACT-ME:
 
-- Discord: ch4zzin#9476
+- Discord: c0ld3r#1337
 
 #
 
