@@ -49,6 +49,3 @@
 **ch4zzin/ch4zzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
-Backend: Node.js, PHP
