@@ -9,17 +9,30 @@
 ### OS:
 <code><img height="27" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch-linux"></code>
 <code><img height="27" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
+<code><img height="27" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"></code>
 
-### SKILLS:
+### BACKEND:
 
-<code><img height="27" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-<code><img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></code>
-<code><img height="27" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
 <code><img height="27" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
+<code><img height="27" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"></code>
+
+### FRONTEND:
+
+<code><img height="27" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
+<code><img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></code>
+
+### BANCO DE DADOS:
+
+<code><img height="27" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></code>
+<code><img height="27" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></code>
+
+### DEVOPS:
+
+<code><img height="27" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="pm2"></code>
 
 ### CONTACT-ME:
 
-- Discord: @cp4
+- DISCORD: @cp4
 
 #
 
@@ -34,3 +47,7 @@
 <!--
 **ch4zzin/ch4zzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
+
+Backend: Node.js, PHP
