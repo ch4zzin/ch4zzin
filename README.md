@@ -11,11 +11,9 @@
 
 My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, I'm currently stopped, but anything can call me.
 
-- 🌎 From Brazil
-- 🧪 CyberNet Organization
-
 ### OS:
 <code><img height="27" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch-linux"></code>
+<code><img height="27" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></code>
 
 ### SKILLS:
 
@@ -25,7 +23,7 @@ My name is ch4zzin, I'm from Brazil, I was studying programming and pentesting, 
 
 ### CONTACT-ME:
 
-- Discord: @spoofar
+- Discord: @cp4
 
 #
 
