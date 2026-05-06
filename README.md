@@ -1,4 +1,4 @@
-## hello, i'm [ch4zzin] <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/> (https://github.com/ch4zzin)
+## hello, i'm [[ch4zzin](https://github.com/ch4zzin)] <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch4zzin&label=Profile%20views&color=323232&style=flat-square" alt="ch4zzin" /> </p>
 
